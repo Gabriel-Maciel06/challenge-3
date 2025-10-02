@@ -63,3 +63,11 @@ Se quiser deixar claro que o projeto é open-source:
 
 ## Licença
 Este projeto está sob a licença MIT.
+
+Agradecimentos
+
+Para dar créditos a quem ajudou ou inspirou o projeto:
+
+## Agradecimentos
+- Professor e colegas do Sprint 3 da FIAP
+- Inspiração: [link do template ou projeto]
