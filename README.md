@@ -56,3 +56,10 @@ Mostra o que ainda vai ser implementado no projeto:
 - [ ] Melhorar design responsivo
 - [ ] Adicionar validação de campos avançada
 - [ ] Criar animações interativas
+
+Licença
+
+Se quiser deixar claro que o projeto é open-source:
+
+## Licença
+Este projeto está sob a licença MIT.
