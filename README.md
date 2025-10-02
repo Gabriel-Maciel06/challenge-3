@@ -35,3 +35,15 @@ git push
 ## Prints do Projeto
 ![Home Page](imagens/home.png)
 ![Formulário](imagens/form.png)
+
+Regras de Contribuição
+
+Se outras pessoas forem colaborar no projeto:
+
+## Contribuindo
+Para contribuir com o projeto:
+1. Fork o repositório
+2. Crie uma branch para sua feature (`git checkout -b minha-feature`)
+3. Faça commit das suas alterações (`git commit -m "Minha mensagem"`)
+4. Faça push para a branch (`git push origin minha-feature`)
+5. Abra um Pull Request
