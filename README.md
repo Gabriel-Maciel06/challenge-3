@@ -47,3 +47,12 @@ Para contribuir com o projeto:
 3. Faça commit das suas alterações (`git commit -m "Minha mensagem"`)
 4. Faça push para a branch (`git push origin minha-feature`)
 5. Abra um Pull Request
+
+Roadmap
+
+Mostra o que ainda vai ser implementado no projeto:
+
+## Roadmap
+- [ ] Melhorar design responsivo
+- [ ] Adicionar validação de campos avançada
+- [ ] Criar animações interativas
